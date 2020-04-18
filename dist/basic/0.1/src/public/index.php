@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>{title}</title>
+        <title>{app.title} - {app.version}</title>
+        <meta name="description" content="{app.description}">
     </head>
     <body>
 
